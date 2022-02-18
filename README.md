@@ -11,8 +11,7 @@
 ## 👍🏻 Tech Stack
 
 <p align="center">
-   <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
-   <img alt="JSP" src ="https://img.shields.io/badge/JSP-F86001.svg?&style=flat&logo=Java&logoColor=white"/>
+   <img src ="https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white"/>
    <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white"/>
    <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
 </p>
