@@ -28,7 +28,7 @@
 
 
 
-## 📖 Studying and Interest Stack
+## 📖 Interesting Skills
 
 
 <p align="center">
